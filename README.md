@@ -1,4 +1,4 @@
 # microURL
 Flask-based simple URL shortener.
 
-Try out here: [дштл]
+Try out here: [link]
